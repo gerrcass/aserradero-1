@@ -272,7 +272,7 @@ button:focus {
   z-index: 1;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../img/banner/banner-bg.jpg);
   background-attachment: fixed;
-  background-size: cover;
+/*  background-size: cover;*/
   height: 90vh;
   position: relative; }
   .home_banner_area__image {
